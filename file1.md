@@ -3,4 +3,6 @@ Hello
 
 some other content
 
-Some content for branch b-2
+Some content for branch b-2 and b3
+
+and this is a new line of content
