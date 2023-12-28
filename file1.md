@@ -3,4 +3,4 @@ Hello
 
 some other content
 
-Some content for branch b-2
+Some content for branch b-2 generate a conflict
