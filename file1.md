@@ -9,3 +9,6 @@ and this is a new line of content
 
 # Content to be commited
 some content to be saved in a stash
+
+
+Some changes to be stashed on a new branch
